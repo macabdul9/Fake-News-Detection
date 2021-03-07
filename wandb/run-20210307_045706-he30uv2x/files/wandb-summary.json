@@ -1,0 +1,1 @@
+{"val_loss": 0.6841484308242798, "val_accuracy": 0.625, "val_f1": 0.38095238095238093, "val_precision": 0.3125, "val_recall": 0.5, "_step": 9, "_runtime": 157, "_timestamp": 1615073386, "loss": 0.6733785271644592, "accuracy": 0.875, "f1_score": 0.873015873015873}

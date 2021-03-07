@@ -1,0 +1,32 @@
+{
+    "os": "Linux-5.8.0-44-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.6",
+    "heartbeatAt": "2021-03-06T23:27:17.637777",
+    "startedAt": "2021-03-06T23:27:06.125505",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9018",
+        "--control=9016",
+        "--hb=9015",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"1a256d4f-c5db-4782-bbe4-4e15df9a0bc5\"",
+        "--shell=9017",
+        "--transport=\"tcp\"",
+        "--iopub=9019",
+        "--f=/tmp/tmp-329207Jzja17Xh9D4i.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/macabdul9/Fake-News-Detection.git",
+        "commit": "9f19afb7ee8ab5676b3de9a25c5a8f979029023d"
+    },
+    "email": "abdulwaheed1513@gmail.com",
+    "root": "/home/macab/research/Fake-News-Detection",
+    "host": "macab",
+    "username": "macab",
+    "executable": "/home/macab/miniconda3/bin/python"
+}
